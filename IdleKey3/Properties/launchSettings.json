@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IdleKey3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "IdleKey3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
